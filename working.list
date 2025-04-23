@@ -3,3 +3,4 @@ DOMAIN-SUFFIX,example.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,zijiao-gateway.com
+DOMAIN-SUFFIX,mongodb.com
